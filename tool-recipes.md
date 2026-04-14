@@ -8,3 +8,4 @@
 - Run `python D:\AI\agent-memory\scripts\reporting.py dispatch-plan --channel gmail` or `--channel weixin` to recover pending report deliveries.
 - Run `python D:\AI\agent-memory\scripts\reporting.py health-check` to generate exception-only alert payloads.
 - When referencing a local file in responses, include a plain-text absolute Windows path so it is easy to find in Explorer.
+- When a third-party skill should work in both apps, install or mirror it in both local `skills` directories.
