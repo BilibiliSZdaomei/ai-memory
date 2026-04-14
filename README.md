@@ -1,3 +1,3 @@
-# ai-memory
+# ai-memory public mirror
 
-Public mirror for conclusion-level Codex/OpenClaw memory artifacts.
+This mirror stores conclusion-level memory only.
