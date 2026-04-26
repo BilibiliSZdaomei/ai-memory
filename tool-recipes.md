@@ -10,3 +10,4 @@
 - When referencing a local file in responses, include a plain-text absolute Windows path so it is easy to find in Explorer.
 - When a third-party skill should work in both apps, install or mirror it in both local `skills` directories.
 - When auditing existing shared skills, compare both local `skills` directories and mirror any missing copies.
+- Prefer the AI diagram workflow to default into `D:\Documents\笔记\Attachments` for direct Obsidian embedding.
