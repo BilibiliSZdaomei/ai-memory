@@ -13,3 +13,4 @@
 - 双主库：两个系统同时沉淀长期记忆、决策、经验，最后不知道谁是真的。
 - 定时合并：light sync、nightly merge、skills synthesis
 - 外部知识库默认只读，不得直接成为第二记忆源。
+- 主题本质上就是一大包 CSS，决定整个 Obsidian 的视觉风格。
